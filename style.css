@@ -1369,7 +1369,7 @@ margin-bottom: 0;
 	right: 0;
 	left: 0;
 	z-index: 1030;
-	background: #d68b9b ;
+	background: #262E6C;
 	margin-top: 0;
 	
 	-webkit-backface-visibility: hidden;
@@ -2618,7 +2618,7 @@ transform: scale(1.6);
 
 .mask-heart{
 	width: 450px;
-	-webkit-mask-image: url( images/mask-heart.svg );
+	/* -webkit-mask-image: url( images/mask-heart.svg ); */
   -webkit-mask-size: contain;
   -webkit-mask-position: center center;
   -webkit-mask-repeat: no-repeat;
@@ -3312,7 +3312,7 @@ aside table caption,
 }
 
 .el-smalltitle{
-	color: #d68b9b;
+	color: #262E6C;
 	margin-bottom: 15px;
 }
 
@@ -3327,7 +3327,7 @@ aside table caption,
 	content: '';
 position: relative;
 width: 100%;
-background-color: #d68b9b;
+background-color: #262E6C;
 height: 4px;
 display: block;
 margin-top: 10px;
@@ -3804,7 +3804,7 @@ button, input, optgroup, select, textarea {
 	font-size: 15px;
 	font-weight: 700;
 	color: #ffffff;
-	background: #FFB6C1;
+	background: #262E6C;
 	padding: 10px 25px;
 	display: inline-block;
 	border: none;
@@ -4051,7 +4051,7 @@ position: relative;
 	width: 30px;
 	height: 30px;
 	position: fixed;
-	background: #d68b9b;
+	background: #262E6C;
 	color: #ffffff;
 	border-radius: 50%;
 	bottom: 20px;
